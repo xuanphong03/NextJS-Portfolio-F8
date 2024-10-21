@@ -1,0 +1,28 @@
+{
+  "HomePage": {
+    "ContactInformationTitle": "Social contact",
+    "SelfProject": "Self project",
+    "ProjectCodeSnippetTitle": "Project Code snippet",
+    "ProjectCodeSnippetCompleteTime": "A small project completed within a day",
+    "ProjectCodeSnippetDescription": "A simple website that allows you to create and share code snippets. Using HTML, CSS, JS and custom elements.",
+    "ProjectBlogTitle": "Project blog",
+    "ProjectBlogCompleteTime": "A bigger project done in three days",
+    "ProjectBlogDescription": "A personal blog website with posts about programming and learning. Using React.js.",
+    "ProjectProject20f8Title": "Project Code snippet",
+    "ProjectProject20f8CompleteTime": "A fun project made in a day",
+    "ProjectProject20f8Description": "A puzzle game based on the 2048 game. Using Next.js and Tailwind CSS.",
+    "MySkillsTitle": "My skills",
+    "WebDevSkillTitle": "Web developer",
+    "WebDevSkillDesc": "REST API, React.js, Next.js, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop...",
+    "OtherSkillsTitle": "Other skills",
+    "OtherSkillsDesc": "Relatively good research and search skills. Working thinking, good teamwork skills compared to age.",
+    "HistoriesTitle": "Histories",
+    "JuniorHighSchool": "Vinh Quynh Junior High School",
+    "HighSchoolName": "Ngo Thi Nham High School",
+    "UniversityName": "Thang Long University",
+    "MyHobbies": "My hobbies",
+    "FirstMyHobby": "Enjoy relaxing music, rap music from Đen Vâu and other artists,…",
+    "SecondMyHobby": "Read books, learn more about new programming languages. Currently, I am self-studying Python",
+    "ThirstMyHobby": "Follow the technology trends, news about famous products like Iphone, Huawei, GoogleAI,…"
+  }
+}

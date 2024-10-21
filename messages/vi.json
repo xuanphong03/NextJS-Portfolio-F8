@@ -1,0 +1,28 @@
+{
+  "HomePage": {
+    "ContactInformationTitle": "Thông tin liên lạc",
+    "SelfProject": "Dự án cá nhân",
+    "ProjectCodeSnippetTitle": "Project Code snippet",
+    "ProjectCodeSnippetCompleteTime": "Một dự án nhỏ hoàn thành trong vòng một ngày",
+    "ProjectCodeSnippetDescription": "Một trang web đơn giản cho phép tạo và chia sẻ các đoạn code. Sử dụng HTML, CSS, JS và custom elements.",
+    "ProjectBlogTitle": "Project blog",
+    "ProjectBlogCompleteTime": "Một dự án được thực hiện trong ba ngày",
+    "ProjectBlogDescription": "Một trang web blog social với các bài viết về lập trình và học tập. Sử dụng React.js.",
+    "ProjectProject20f8Title": "Project Code snippet",
+    "ProjectProject20f8CompleteTime": "Một dự án game được làm trong một ngày",
+    "ProjectProject20f8Description": "Một trò chơi giải đố dựa trên trò chơi 2048. Sử dụng Next.js và Tailwind CSS.",
+    "MySkillsTitle": "Các kỹ năng của tôi",
+    "WebDevSkillTitle": "Kỹ năng làm việc:",
+    "WebDevSkillDesc": "REST API, React.js, Next.js, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop...",
+    "OtherSkillsTitle": "Các kỹ năng khác",
+    "OtherSkillsDesc": "Kỹ năng nghiên cứu và tìm kiếm tương đối tốt. Tư duy làm việc, kỹ năng làm việc nhóm tốt so với độ tuổi.",
+    "HistoriesTitle": "Lịch sử",
+    "JuniorHighSchool": "Trường THCS Vĩnh Quỳnh",
+    "HighSchoolName": "Trường THPT Ngô Thì Nhậm",
+    "UniversityName": "Đại học Thăng Long",
+    "MyHobbies": "Sở thích cá nhân",
+    "FirstMyHobby": "Thưởng thức nhạc nhẹ, nhạc rap của Đen Vâu và các nghệ sĩ khác,…",
+    "SecondMyHobby": "Đọc sách, học hỏi thêm về các ngôn ngữ lập trình mới mẻ. Hiện tại, tôi đang tự học Python",
+    "ThirstMyHobby": "Theo dõi các xu hướng công nghệ, tin tức về các sản phẩm nổi tiếng như Iphone, Huawei, GoogleAI,…"
+  }
+}
