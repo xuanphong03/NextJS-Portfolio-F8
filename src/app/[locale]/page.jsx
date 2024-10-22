@@ -10,7 +10,9 @@ export default function HomePage({ params: { locale } }) {
 
   return (
     <div className="container mx-auto shadow-box rounded-md bg-white dark:bg-[#18181B] dark:text-white">
-      <h1 className="text-center p-3 text-2xl">Fullstack.edu.vn F8</h1>
+      <div className="group relative w-full">
+        <h1 className="text-center p-3 text-2xl">Fullstack.edu.vn F8</h1>
+      </div>
       <div className="grid grid-cols-12 gap-x-8 p-3 bg-white dark:bg-[#18181B]">
         <Sidebar locale={locale} />
         <div className="col-span-9 space-y-2">

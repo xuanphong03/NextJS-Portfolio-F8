@@ -4,6 +4,7 @@ import avatar from "@/public/images/avatar.jpg";
 import f8_fullstack from "@/public/images/f8.jpg";
 import ThemeChangerButton from "./_components/ThemeChangerButton";
 import LanguageChangerButton from "./_components/LanguageChangerButton";
+import { FaSquareFacebook, FaYoutube } from "react-icons/fa6";
 
 export default function Header() {
   return (
@@ -36,6 +37,19 @@ export default function Header() {
                 src={avatar}
                 className="size-8 rounded-full"
               />
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="https://www.facebook.com/groups/f8official"
+              target="_blank"
+            >
+              <FaSquareFacebook className="text-2xl text-blue-500" />
+            </Link>
+          </li>
+          <li>
+            <Link href="https://www.youtube.com/c/F8VNOfficial" target="_blank">
+              <FaYoutube className="text-2xl text-red-500" />
             </Link>
           </li>
           <li className="flex items-center">
